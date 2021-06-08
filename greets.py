@@ -1,1 +1,1 @@
-greetings = ["hi", "good day", "how are you?", "Hi there"]
+greetings = ["hi", "good day", "how are you?"]
